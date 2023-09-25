@@ -1,0 +1,10 @@
+
+   
+thead{font-weight: bold;
+text-align: center;}
+tbody{background-color: rgb(233, 213, 188);}
+tfoot{background-color: skyblue;}
+.total{font-weight: bold;}
+table, td{border-style: solid;
+border-width: 1px;
+border-collapse: collapse;}
